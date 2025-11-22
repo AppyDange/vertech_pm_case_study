@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Course-TEM%20531%20@%20ASU-purple" />
 </p>
 
-Hi! 👋  
+Hi there!  
 This repository contains my **Final Innovation Debriefing** for **Vertech Industrial Automation & Information Solutions**, completed as part of **TEM 531 – Innovation Management and Disruptive Technology** at Arizona State University.
 
 The project analyzes Vertech through a **product + innovation strategy** lens and covers:
