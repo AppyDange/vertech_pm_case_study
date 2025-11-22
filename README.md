@@ -47,12 +47,10 @@ In short: **High-touch engineering today, scalable product platforms tomorrow.**
 
 ## 🎥 Vertech – Innovation Debrief Overview
 
-> Replace the `src` below with your actual GIF path after you upload it to the repo  
-> (for example: `./vertech-innovation-overview.gif`)
 
 <p align="center">
   <img 
-    src="./vertech-innovation-overview.gif" 
+    src="https://github.com/AppyDange/vertech_pm_case_study/blob/main/Vertech%20preview.gif?raw=true" 
     alt="Vertech Innovation Debrief Overview GIF"
     width="60%" 
   />
